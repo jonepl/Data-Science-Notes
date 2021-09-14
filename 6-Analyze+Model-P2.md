@@ -97,7 +97,7 @@ If you are given supervised test data you can perform an 80% 20% split in order 
 3. Use the 20% supervised data to test your tranined model
 4. Compare your Predicted Output of you 20% supervised data input to the actual values and determine your score (Precision, Recall)
 
-![Classifier Evaluation](Classifier-Evaluation.png)
+![Classifier Evaluation](img/Classifier-Evaluation.png)
 
 ---
 This idea of a feature is a detail of the data

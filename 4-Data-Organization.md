@@ -1,7 +1,7 @@
 # Organize (Exploring and Processing Data)
 
 
-![Organize](Organize-Step.png)
+![Organize](img/Organize-Step.png)
 
 ## Exploratory Data Analysis
 

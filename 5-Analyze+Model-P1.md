@@ -1,6 +1,6 @@
 # Analyze + Mode Part 1
 
-![Organize](Analyze-Model.png)
+![Organize](img/Analyze-Model.png)
 
 Analyze & Model - the process of understanding, diagnosing, and refining a machine learning model with the help of interactive visualization
 
@@ -22,7 +22,7 @@ Examples of Categorical Data
 * Multi (Cats, Dogs, Sheep)
 * Ordinal (Low, Medium, High)
 
-![Classifier Evaluation](Logistic-Regression.png)
+![Classifier Evaluation](img/Logistic-Regression.png)
 Sigmoidal (function) curve
 
 ## Testing model performance

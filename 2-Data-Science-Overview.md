@@ -1,6 +1,6 @@
 # Data Science Basics
 
-![Data Science Cycle Overview](https://gist.githubusercontent.com/jonepl/72f80e006a0bc545ba83367dca624f20/raw/6d8f6806f536bd7f09f89f300eee521a876f69ce/Data-Science-Cycle-Overview.png)
+![Data Science Cycle Overview](img/Data-Science-Cycle-Overview.png)
 
 # Glossary
 
